@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1577194731 source:c:\users\pc\desktop\assignment-3\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"FciVector.h"
+
+1577199019 c:\users\pc\desktop\assignment-3\include\fcivector.h
+	"Course.h"
+	<iostream>
+	"Student.h"
+
+1577122978 c:\users\pc\desktop\assignment-3\student.h
+	<iostream>
+	"Course.h"
+	"FciVector.h"
+
+1577193047 c:\users\pc\desktop\assignment-3\include\course.h
+	<iostream>
+
+1577193047 c:\users\pc\desktop\assignment-3\include\student.h
+	<iostream>
+	"Course.h"
+	"FciVector.h"
+
+1577194731 source:c:\users\pc\desktop\assignment #3\fcivector\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"FciVector.h"
+
+1577193047 c:\users\pc\desktop\assignment #3\fcivector\include\student.h
+	<iostream>
+	"Course.h"
+	"FciVector.h"
+
+1577193047 c:\users\pc\desktop\assignment #3\fcivector\include\course.h
+	<iostream>
+
+1577199019 c:\users\pc\desktop\assignment #3\fcivector\include\fcivector.h
+	"Course.h"
+	<iostream>
+	"Student.h"
+
+1577458585 source:c:\users\pc\desktop\assignment #3(id-20180285)(g-14)\fcivector\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"FciVector.h"
+
+1577458266 c:\users\pc\desktop\assignment #3(id-20180285)(g-14)\fcivector\include\student.h
+	<iostream>
+	"Course.h"
+	"FciVector.h"
+
+1577458264 c:\users\pc\desktop\assignment #3(id-20180285)(g-14)\fcivector\include\course.h
+	<iostream>
+
+1577458266 c:\users\pc\desktop\assignment #3(id-20180285)(g-14)\fcivector\include\fcivector.h
+	"Course.h"
+	<iostream>
+	"Student.h"
+
